@@ -7,3 +7,9 @@ https://amigo.hostgator.mx/hydracorpteam
 ```bash
 python3 my-first-socket.py
 ```
+### With root permissions
+
+```bash
+sudo chmod +x my-first-socket.py
+./my-first-socket.py
+```
