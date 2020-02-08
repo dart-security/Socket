@@ -1,5 +1,6 @@
 # This is a just example of socket in Python
 # Dart - Security by Equinockx
+# https://amigo.hostgator.mx/hydracorpteam
 import socket
 
 print("Enter the IP address: ", end=" ")
